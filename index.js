@@ -1,1 +1,1 @@
-console.log('萱萱')
+console.log('萱')
